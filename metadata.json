@@ -1,0 +1,5 @@
+{
+  "name": "市政AI生图工具 - InfraVision",
+  "description": "专业的市政基础设施AI可视化工具（道路、桥梁、隧道）。支持图生图、局部重绘及版本控制。",
+  "requestFramePermissions": []
+}
